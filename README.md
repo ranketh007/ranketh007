@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ranketh007
-- 👀 I’m interested in learning to code and also in the field of Cybersecurity
+- 👀 I’m interested in fullstack developing and also in Cybersecurity
 - 🌱 I’m currently learning in edX and IIT(Informatics Institute of Technology) 
 - 💞️ I’m looking to collaborate on anything under Information Technology
 
