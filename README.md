@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ranketh007
-- 👀 I’m interested in fullstack developing and also in Cybersecurity
+- 👀 I’m interested in fullstack developing and Quality Assurance 
 - 🌱 I’m currently an undergraduate in the University of Westminster 
-- 💞️ I’m looking forward to gain experience on any project under Cybersecurity
+- 💞️ I’m looking forward to gain experience on any project under QA and Web Developing 
 
 
 <!---
